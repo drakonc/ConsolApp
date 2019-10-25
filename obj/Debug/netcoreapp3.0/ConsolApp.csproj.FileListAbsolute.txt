@@ -1,0 +1,11 @@
+/home/jcastro/Desarrollo/DotNet/ConsolApp/bin/Debug/netcoreapp3.0/ConsolApp
+/home/jcastro/Desarrollo/DotNet/ConsolApp/bin/Debug/netcoreapp3.0/ConsolApp.deps.json
+/home/jcastro/Desarrollo/DotNet/ConsolApp/bin/Debug/netcoreapp3.0/ConsolApp.runtimeconfig.json
+/home/jcastro/Desarrollo/DotNet/ConsolApp/bin/Debug/netcoreapp3.0/ConsolApp.runtimeconfig.dev.json
+/home/jcastro/Desarrollo/DotNet/ConsolApp/bin/Debug/netcoreapp3.0/ConsolApp.dll
+/home/jcastro/Desarrollo/DotNet/ConsolApp/bin/Debug/netcoreapp3.0/ConsolApp.pdb
+/home/jcastro/Desarrollo/DotNet/ConsolApp/obj/Debug/netcoreapp3.0/ConsolApp.csprojAssemblyReference.cache
+/home/jcastro/Desarrollo/DotNet/ConsolApp/obj/Debug/netcoreapp3.0/ConsolApp.AssemblyInfoInputs.cache
+/home/jcastro/Desarrollo/DotNet/ConsolApp/obj/Debug/netcoreapp3.0/ConsolApp.AssemblyInfo.cs
+/home/jcastro/Desarrollo/DotNet/ConsolApp/obj/Debug/netcoreapp3.0/ConsolApp.dll
+/home/jcastro/Desarrollo/DotNet/ConsolApp/obj/Debug/netcoreapp3.0/ConsolApp.pdb
